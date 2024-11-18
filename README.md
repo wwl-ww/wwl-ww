@@ -1,5 +1,5 @@
 > - Interested in **deep learning**.
-> - Focusing on the **algorithm** and **coding**.
+> - Focusing on **algorithm** and **coding**.
 
 to do list   🚀️
 
